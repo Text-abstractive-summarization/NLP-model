@@ -1,5 +1,5 @@
-"""
-model: Etri et5
-training_data: 120,000
-epochs: 15
+""" \n
+model: Etri et5 \n
+training_data: 120,000 \n
+epochs: 15\n
 """
