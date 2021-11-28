@@ -1,4 +1,4 @@
-dataset : 
+dataset :  
 https://aihub.or.kr/aidata/8054
 news_text_dataset
 
